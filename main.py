@@ -9,7 +9,6 @@ display = []
 for i in chosen_word:
     display += "_"
 print(display)
-print(" !! " + chosen_word)
 
 end_of_game = False
 lives = 6
